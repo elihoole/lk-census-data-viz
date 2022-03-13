@@ -1,1 +1,3 @@
-# beginner_python_dataviz
+# data visualisation on Sri Lankan census data
+
+Clone the repo and run the jupyter notebook.
